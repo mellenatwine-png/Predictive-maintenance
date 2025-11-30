@@ -29,10 +29,6 @@ Interactive **Streamlit dashboard** allows selecting machines, viewing actual vs
 ![Feature Importance](screenshots/feature_importance.png)
 
 
-### Demo GIF
-![Demo](screenshots/demo.gif)
-
-
 ---
 
 ## How to Run
@@ -42,6 +38,7 @@ Interactive **Streamlit dashboard** allows selecting machines, viewing actual vs
 ```bash
 git clone https://github.com/mellenatwine.png/predictive-maintenance.git
 cd predictive-maintenance
+
 
 
 
