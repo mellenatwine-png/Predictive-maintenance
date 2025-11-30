@@ -38,6 +38,8 @@ Interactive **Streamlit dashboard** allows selecting machines, viewing actual vs
 ```bash
 git clone https://github.com/mellenatwine.png/predictive-maintenance.git
 cd predictive-maintenance
+```
+
 
 
 
