@@ -21,13 +21,13 @@ Interactive **Streamlit dashboard** allows selecting machines, viewing actual vs
 
 ## Screenshots
 
-## Screenshots
-
 ### Actual vs Predicted RUL
 ![Actual vs Predicted](screenshots/actual_vs_predicted.png)
 
+
 ### Feature Importance
 ![Feature Importance](screenshots/feature_importance.png)
+
 
 ### Demo GIF
 ![Demo](screenshots/dashboard_demo.gif)
@@ -42,5 +42,6 @@ Interactive **Streamlit dashboard** allows selecting machines, viewing actual vs
 ```bash
 git clone https://github.com/mellenatwine.png/predictive-maintenance.git
 cd predictive-maintenance
+
 
 
