@@ -21,15 +21,14 @@ Interactive **Streamlit dashboard** allows selecting machines, viewing actual vs
 
 ## Screenshots
 
-### Dashboard Home
-![Dashboard Home](https://github.com/mellenatwine.png/predictive-maintenance/blob/main/screenshots/dashboard_main.png)
-
 ### Actual vs Predicted RUL
 ![Actual vs Predicted](https://github.com/mellenatwine.png/predictive-maintenance/blob/main/screenshots/actual_vs_predicted.png)
 
 ### Feature Importance
 ![Feature Importance](https://github.com/mellenatwine.png/predictive-maintenance/blob/main/screenshots/feature_importance.png)
 
+### Demo GIF
+![Dashboard Demo](https://github.com/mellenatwine.png/predictive-maintenance/blob/main/screenshots/dashboard_demo.gif)
 
 ---
 
